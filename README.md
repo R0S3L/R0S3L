@@ -15,11 +15,6 @@ Volgatech software engineer department student
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📊 Статистика
-
-![Статистика GitHub](https://github-readme-stats.vercel.app/api?username=R0S3L&show_icons=true&theme=tokyonight&hide_border=true)
-![Языки](https://github-readme-stats.vercel.app/api/top-langs/?username=R0S3L&layout=compact&theme=tokyonight&hide_border=true)
-
 ## 📫 Контакты
 
 - GitHub: [@R0S3L](https://github.com/R0S3L)
